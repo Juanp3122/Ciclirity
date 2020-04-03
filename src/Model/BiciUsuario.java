@@ -1,4 +1,4 @@
-package edu.poligran.ciclirity.model;
+package Model;
 
 import java.util.*;
 
@@ -56,13 +56,6 @@ public class BiciUsuario extends Usuario {
         // TODO implement here
     }
 
-    /**
-     * @return
-     */
-    public cancelarReporteHurto reportarHurto() {
-        // TODO implement here
-        return null;
-    }
 
     /**
      * 

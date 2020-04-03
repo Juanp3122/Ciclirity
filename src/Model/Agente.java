@@ -1,4 +1,4 @@
-package edu.poligran.ciclirity.model;
+package Model;
 
 import java.util.*;
 
@@ -35,13 +35,7 @@ public class Agente extends Usuario {
         // TODO implement here
     }
 
-    /**
-     * @return
-     */
-    public consultarPerfilPropietario consultarEstadoBici() {
-        // TODO implement here
-        return null;
-    }
+
 
     /**
      * 

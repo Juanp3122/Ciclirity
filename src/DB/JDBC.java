@@ -1,16 +1,16 @@
-package edu.poligran.gui;
+package DB;
 
 import java.util.*;
 
 /**
  * 
  */
-public class GUI {
+public class JDBC {
 
     /**
      * Default constructor
      */
-    public GUI() {
+    public JDBC() {
     }
 
 

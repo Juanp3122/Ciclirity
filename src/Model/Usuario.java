@@ -1,4 +1,4 @@
-package edu.poligran.ciclirity.model;
+package Model;
 
 import java.util.*;
 
